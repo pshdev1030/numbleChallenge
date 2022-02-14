@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pshdev1030/numbleChallenge/static/css/main.e6c13ad2.css",
+    "main.js": "/pshdev1030/numbleChallenge/static/js/main.16937fe5.js",
+    "index.html": "/pshdev1030/numbleChallenge/index.html",
+    "main.e6c13ad2.css.map": "/pshdev1030/numbleChallenge/static/css/main.e6c13ad2.css.map",
+    "main.16937fe5.js.map": "/pshdev1030/numbleChallenge/static/js/main.16937fe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.16937fe5.js"
+  ]
+}
