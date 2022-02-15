@@ -20,8 +20,6 @@ const App: React.FC = () => {
     dispatch({ actionType: DECREASE_TIME_ACTION });
   };
 
-  console.log(answer);
-
   useInterval(decreaseTime, time <= 0 ? 0 : 1000);
 
   const onClickBlock = (idx: number) => {
