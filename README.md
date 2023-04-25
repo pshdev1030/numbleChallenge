@@ -10,6 +10,6 @@
 
 [Numble 다른 색깔 찾기 게임 제작 챌린지](https://pshdev1030.github.io/2022/02/14/Numble-다른-색깔-찾기-게임-제작-챌린지/)
 
-## state와 ref를 이용하여 구현한 코드
+## ~~state와 ref를 이용하여 구현한 코드~~
 
-[github 주소](https://github.com/pshdev1030/numble)
+~~[github 주소](https://github.com/pshdev1030/numble)~~
